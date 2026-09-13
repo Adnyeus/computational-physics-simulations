@@ -1,0 +1,19 @@
+# Python environment artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Data & Output assets
+data/*
+!data/.gitkeep
+
+# IDE Settings
+.vscode/
+.idea/
